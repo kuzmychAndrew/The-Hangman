@@ -16,6 +16,7 @@
 		CE54261A270F6B5B0032FF0D /* HWS_Challenge_7_9Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE542619270F6B5B0032FF0D /* HWS_Challenge_7_9Tests.swift */; };
 		CE542624270F6B5B0032FF0D /* HWS_Challenge_7_9UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE542623270F6B5B0032FF0D /* HWS_Challenge_7_9UITests.swift */; };
 		CE542626270F6B5B0032FF0D /* HWS_Challenge_7_9UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE542625270F6B5B0032FF0D /* HWS_Challenge_7_9UITestsLaunchTests.swift */; };
+		CE5426372715AFD50032FF0D /* wordlist.txt in Resources */ = {isa = PBXBuildFile; fileRef = CE5426362715AFD50032FF0D /* wordlist.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		CE54261F270F6B5B0032FF0D /* HWS_Challenge_7-9UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HWS_Challenge_7-9UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE542623270F6B5B0032FF0D /* HWS_Challenge_7_9UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWS_Challenge_7_9UITests.swift; sourceTree = "<group>"; };
 		CE542625270F6B5B0032FF0D /* HWS_Challenge_7_9UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HWS_Challenge_7_9UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CE5426362715AFD50032FF0D /* wordlist.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = wordlist.txt; path = ../../../../Desktop/wordlist.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				CE54260B270F6B5B0032FF0D /* Assets.xcassets */,
 				CE54260D270F6B5B0032FF0D /* LaunchScreen.storyboard */,
 				CE542610270F6B5B0032FF0D /* Info.plist */,
+				CE5426362715AFD50032FF0D /* wordlist.txt */,
 			);
 			path = "HWS_Challenge_7-9";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				CE54260F270F6B5B0032FF0D /* LaunchScreen.storyboard in Resources */,
 				CE54260C270F6B5B0032FF0D /* Assets.xcassets in Resources */,
+				CE5426372715AFD50032FF0D /* wordlist.txt in Resources */,
 				CE54260A270F6B580032FF0D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
